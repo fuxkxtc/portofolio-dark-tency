@@ -17,7 +17,7 @@
 ## 📁 Struktur File
 
 ```
-portfolio/
+portfolio-dark-tency/
 ├── index.html     ← Struktur & konten halaman
 ├── style.css      ← Styling & animasi
 ├── script.js      ← Interaktivitas & logika JS
@@ -45,8 +45,8 @@ portfolio/
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/AdanaTatuyaHatsumi/portfolio.git
-cd portfolio
+git clone https://github.com/AdanaTatuyaHatsumi/portfolio-dark-tency.git
+cd portfolio-dark-tency
 ```
 
 ### 2. Buka di browser
